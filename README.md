@@ -1,5 +1,6 @@
-Log: Guest
-Pas: 123456
+Hi, visit this chat. Will be happy to see you ＼_(･ω･｀)
+Log: Guest,
+Pas: 123456,
 https://chatengine.io/
 # Getting Started with Create React App
 
